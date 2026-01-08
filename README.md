@@ -27,7 +27,7 @@ The data was cleaned and preprocessed to handle missing values and ensure accura
 
 ---
 
-## 🔍 Analysis Questions & Key Findings
+## 🔍 Analysis Questions 
 
 ### Q1: What is the most frequent genre in the dataset?
 
